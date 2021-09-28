@@ -10,3 +10,5 @@ Curso MisionTIC - Universidad del Norte
 
 ### Tema 2 - Tecnologias y lenguajes para el desarrollo de Front-end
 * [Sesion 04 - Plataformas de desarrollo colaborativo](./Sesion_04/doc/Slide_sesión04.pdf)
+* [Sesion 05 - Tecnologías y lenguajes para el desarrollo de Front-End](./Sesion_05/doc/Slide_sesión05.pdf)
+* [Sesion 06 - Tecnologías y lenguajes para el desarrollo de Front-End](./Sesion_06/doc/Slide_sesión06.pdf)
